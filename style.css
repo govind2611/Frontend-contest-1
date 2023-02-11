@@ -1,0 +1,109 @@
+nav{
+    /* this is for nav bar only */
+    position: absolute;
+    width: 1728px;
+    height: 87px;
+    background: #000000;
+}
+
+p{
+    /* this is for name inside nav bar */
+    position:absolute;
+    width:180px;
+    height:29px;
+    color: white;
+    padding-top: 5px;
+    padding-left: 38px;
+    font-size:24px;
+}
+
+.heading1{
+    /* this is for first heading nav bar */
+    position:absolute;
+    width: 600px;
+    height: 144px;
+    padding-top: 85px;
+    padding-left: 38px;
+    font-size: 60px;
+}
+
+.para{
+    /* this is for paragraph inside heading 1*/
+    position:absolute;
+    width: 1650px;
+    line-height: 35px;
+    padding-left: 38px;
+    padding-top: 200px;
+    color: #000000;
+}
+
+
+.button1{
+    position: absolute;
+    width: 200px;
+    height: 58px;
+    /* button doesnot having padding*/
+    left: 38px;
+    top: 500px;
+    color:white;
+    font-size: 25px;
+    background-color: black;
+    z-index: 1000;
+}
+
+.heading2{
+    /* this is for second heading*/
+    color: black;
+    position:absolute;
+    width: 600px;
+    height: 144px;
+    padding-top: 600px;
+    padding-left: 38px;
+    font-size: 60px;
+}
+
+img{
+    /* this is for image*/
+    position:absolute;
+    padding-top: 750px;
+    padding-left: 38px; 
+    width:700px;
+    height: 800px;
+}
+
+.order{
+    /* this is for heading of ordered list */
+    position:absolute;
+    padding-top: 1600px;
+    padding-left: 12px;
+    width: 600px;
+    height: 144px;
+    font-size: 60px; 
+}
+
+
+ol{
+    /* this is for ordered list */
+    position:absolute;
+    padding-top: 1700px;
+    padding-left: 38px;
+    font-size: 20px;
+}
+
+.unorder{
+    /* this is for heading of unordered list */
+    position:absolute;
+    padding-top: 1850px;
+    padding-left: 12px;
+    width: 600px;
+    height: 144px;
+    font-size: 60px; 
+}
+
+ul{
+     /* this is for unordered list */
+    position:absolute;
+    padding-top: 1950px;
+    padding-left: 38px;
+    font-size: 20px;
+}
